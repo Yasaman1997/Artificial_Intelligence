@@ -1,0 +1,6 @@
+NEW=input("")
+NEW2=input("")
+NEW3=input("")
+NEW4=input("")
+NEW5=input("")
+NEW6=input("")
